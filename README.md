@@ -11,6 +11,7 @@ Description:
 -The user will have two options of using either a default Solr indexing or Page rank algorithm.
 
 Steps followed-
+
 Step 1: Installed Ubuntu on VMware ( Virtual Box lagged on my host machine)
 
 Step 2: Installed the latest version of JAVA (jdk 1.8) and Solr (Solr 6.5.0). Started solr in standalone mode using the command bin/solr start 
