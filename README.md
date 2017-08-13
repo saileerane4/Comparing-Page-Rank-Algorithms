@@ -1,12 +1,9 @@
 # Comparing-Page-Rank-Algorithms
-Implementing Spelling correction and autocomplete feature for Apache Solr. Comparing Apache Solr's default search algorithm and page rank algorithm
+Comparing Apache Solr's default search algorithm and page rank algorithm
 
-Goal:
-Enhancing the web search engine using solr
 
 Description:
 -Created a user interface to accept the user query input and display the results similar to Googles search engine
--Adding automcomplete and spelling correction feature to the exitsing Apache Solr
 -After the query is entered by the user, top 10 results along with a small snippet containing the query words.
 -The user will have two options of using either a default Solr indexing or Page rank algorithm.
 
