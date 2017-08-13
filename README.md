@@ -4,9 +4,11 @@ Comparing Apache Solr's default search algorithm and page rank algorithm
 
 ## Description:
 
--Created a user interface to accept the user query input and display the results similar to Googles search engine
--After the query is entered by the user, top 10 results along with a small snippet containing the query words.
--The user will have two options of using either a default Solr indexing or Page rank algorithm.
+Created a user interface to accept the user query input and display the results similar to Googles search engine
+
+After the query is entered by the user, top 10 results along with a small snippet containing the query words.
+
+The user will have two options of using either a default Solr indexing or Page rank algorithm.
 
 ## Steps followed:
 
